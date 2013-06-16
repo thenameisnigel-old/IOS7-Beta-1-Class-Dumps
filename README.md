@@ -3,6 +3,10 @@ IOS 7 Beta 1 Class Dumps
 
 ##A mixture of class dumps.##
 
+### SpringBoard:
+*  SpringBoard
+ * /System/Library/CoreServices/SpringBoard
+
 ### System Apps:
 *  AACredentialRecoveryDialog
  * /Applications/AACredentialRecoveryDialog.app
